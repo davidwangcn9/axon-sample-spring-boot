@@ -1,10 +1,8 @@
 package com.ote.test.axonsample.query
 
-import com.ote.test.axonsample.datamodel.AccountEntity
 import com.ote.test.axonsample.event.AccountCreatedEvent
 import com.ote.test.axonsample.event.MoneyDepositedEvent
 import com.ote.test.axonsample.event.MoneyWithdrawnEvent
-import com.ote.test.axonsample.repository.AccountRepository
 import org.axonframework.eventhandling.EventHandler
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service

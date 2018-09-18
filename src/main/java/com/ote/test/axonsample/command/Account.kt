@@ -1,8 +1,5 @@
-package com.ote.test.axonsample.aggregate
+package com.ote.test.axonsample.command
 
-import com.ote.test.axonsample.command.CreateAccountCommand
-import com.ote.test.axonsample.command.DepositMoneyCommand
-import com.ote.test.axonsample.command.WithdrawMoneyCommand
 import com.ote.test.axonsample.event.AccountCreatedEvent
 import com.ote.test.axonsample.event.MoneyDepositedEvent
 import com.ote.test.axonsample.event.MoneyWithdrawnEvent

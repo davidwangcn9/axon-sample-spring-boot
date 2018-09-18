@@ -1,7 +1,5 @@
-package com.ote.test.axonsample.dataservice
+package com.ote.test.axonsample.query
 
-import com.ote.test.axonsample.datamodel.AccountEntity
-import com.ote.test.axonsample.repository.AccountRepository
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 import java.util.*

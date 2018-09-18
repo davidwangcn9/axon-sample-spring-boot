@@ -1,4 +1,4 @@
-package com.ote.test.axonsample.datamodel;
+package com.ote.test.axonsample.query;
 
 import java.util.*
 import javax.persistence.Entity

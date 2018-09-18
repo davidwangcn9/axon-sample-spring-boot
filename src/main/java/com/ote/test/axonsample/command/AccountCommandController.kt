@@ -1,8 +1,5 @@
-package com.ote.test.axonsample
+package com.ote.test.axonsample.command
 
-import com.ote.test.axonsample.command.CreateAccountCommand
-import com.ote.test.axonsample.command.DepositMoneyCommand
-import com.ote.test.axonsample.command.WithdrawMoneyCommand
 import org.axonframework.commandhandling.gateway.CommandGateway
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.*
